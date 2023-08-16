@@ -1,5 +1,5 @@
 import React, {useEffect} from 'react'
-import Job from './job'
+import Job from "./Job"
 import Wrapper from '../assets/wrappers/JobsContainer'
 import {useSelector , useDispatch} from 'react-redux';
 import Loading from './Loading'
